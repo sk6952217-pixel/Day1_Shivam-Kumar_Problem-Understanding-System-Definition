@@ -71,4 +71,4 @@ The final results will be evaluated using suitable image-quality metrics to dete
 
 ## Conclusion
 
-During Day 1, the project problem, requirements, dataset, technologies, workflow, and expected results were studied. The dataset was also extracted and inspected, with a total of **3235 images** identified. This provides a basic conceptual foundation for starting the practical work on Day 2.
+During Day 1, the project problem, requirements, dataset, workflow, and expected results were studied. The dataset was also extracted and inspected, with a total of **3235 images** identified. Now we can go for day 2 Literature Review - Domain + ML.
