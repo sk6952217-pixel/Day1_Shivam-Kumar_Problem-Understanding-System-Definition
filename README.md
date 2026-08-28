@@ -1,4 +1,4 @@
-
+##  Underwater Image Edge Detection and Enhancement
 ## 1. Problem Statement
 
 The project is based on underwater image enhancement.
@@ -38,21 +38,21 @@ The images are mainly stored in **PNG format** and are organized into different 
 The basic workflow of the project is:
 
 Dataset  
-↓  
+  ↓  
 Dataset Inspection  
-↓  
+   ↓  
 Preprocessing  
-↓  
+    ↓  
 Exploratory Data Analysis  
-↓  
+     ↓  
 Classical Enhancement Baseline  
-↓  
+      ↓  
 Generated/Enhanced Images  
-↓  
+      ↓  
 Comparison with Target Images  
-↓  
+     ↓  
 Evaluation  
-↓  
+    ↓  
 Final Results
 
 In simple words, an underwater image is taken as input, processed using an image enhancement approach, and an enhanced image is generated. The generated image is then compared with the target image to evaluate the quality of the enhancement.
