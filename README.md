@@ -33,7 +33,18 @@ The images are mainly divided into three types:
 
 The images are mainly stored in **PNG format** and are organized into different epoch folders.
 
-## 4. Project Workflow
+## 4. Technologies Used
+
+The following technologies and Python libraries are used in the project:
+
+- **Python** – Programming language used for the project.
+- **Google Colab** – Development and execution environment.
+- **PIL** – Used for loading and basic image processing.
+- **NumPy** – Used for numerical operations.
+- **Matplotlib** – Used for displaying and visualizing images.
+- **OpenCV** – Used for image processing when required.
+  
+## 5. Project Workflow
 
 The basic workflow of the project is:
 
